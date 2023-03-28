@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**0aaryan/0aaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">I have been coding for the past 3 years and have developed proficiency in several programming languages, including Python, JavaScript, and C++. I have worked on a wide range of personal projects, including developing web applications using Django and Node-Red, creating IoT projects with Raspberry Pi, and exploring emerging technologies like ML and Computer Vision. I have a passion for learning and am not afraid to take on new challenges. With strong problem-solving skills and a willingness to experiment, I am constantly seeking to expand my knowledge and skills.</h3>
 
