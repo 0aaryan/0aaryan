@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aroraryan826@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AXKSgVrfXW1IUGOFxCoM7mazxytzPC3q/view?usp=sharing](https://drive.google.com/file/d/1AXKSgVrfXW1IUGOFxCoM7mazxytzPC3q/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://stuckaryan.tech/AryanAroraResume.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
