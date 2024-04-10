@@ -7,7 +7,6 @@
 <a href="https://wakatime.com/@932b7ce1-5dc4-41cf-89dd-f110952e4102"><img src="https://wakatime.com/badge/user/932b7ce1-5dc4-41cf-89dd-f110952e4102.svg" alt="Total time coded since Sep 6 2023" /></a>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0aaryan" alt="0aaryan" /></a> </p> -->
-
 <p align="left"> <a href="https://twitter.com/amaaryan_" target="blank"><img src="https://img.shields.io/twitter/follow/amaaryan_?logo=twitter&style=for-the-badge" alt="amaaryan_" /></a> </p>
 
 - 🌱 I’m currently learning **Youtube and Reddit Api, Qiskit**
