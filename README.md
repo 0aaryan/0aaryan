@@ -4,6 +4,7 @@
 <h3 align="center"> <a href="https://stuckaryan.tech/">portfolio</a> </h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0aaryan&label=Profile%20views&color=0e75b6&style=flat" alt="0aaryan" /> </p>
+[![wakatime](https://wakatime.com/badge/user/932b7ce1-5dc4-41cf-89dd-f110952e4102.svg)](https://wakatime.com/@932b7ce1-5dc4-41cf-89dd-f110952e4102)
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0aaryan" alt="0aaryan" /></a> </p> -->
 
