@@ -2,7 +2,7 @@
 <h3 align="center">I have been coding for the past 3 years and have developed proficiency in several programming languages, including Python, JavaScript, and C++. I have worked on a wide range of personal projects, including developing web applications using Django and Node-Red, creating IoT projects with Raspberry Pi, and exploring emerging technologies like ML and Computer Vision. I have a passion for learning and am not afraid to take on new challenges. With strong problem-solving skills and a willingness to experiment, I am constantly seeking to expand my knowledge and skills.</h3>
 
 <h3 align="center"> <a href="https://stuckaryan.tech/">portfolio</a> </h3>
-  
+  <figure><embed src="https://wakatime.com/share/@stuckaryan/29831a86-5e62-478b-a43b-7fb7aeb5cbc1.svg"></embed></figure>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0aaryan&label=Profile%20views&color=0e75b6&style=flat" alt="0aaryan" /> </p>
 <a href="https://wakatime.com/@932b7ce1-5dc4-41cf-89dd-f110952e4102"><img src="https://wakatime.com/badge/user/932b7ce1-5dc4-41cf-89dd-f110952e4102.svg" alt="Total time coded since Sep 6 2023" /></a>
 <!--
